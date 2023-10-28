@@ -1,0 +1,54 @@
+/* universal selectors */
+/* *
+{
+    background:blueviolet;
+    color: burlywood;
+} */
+
+/* Type selectors */
+/* h1,h4
+{
+    background-color: turquoise;
+    color: blue;
+} */
+
+/* Type selectors */
+/* h1,h4
+{
+    background-color: turquoise;
+    color: blue;
+} */
+
+/* .class_selector
+{
+    color:red;
+} */
+
+/* #id_selector1
+{
+    color:red;
+} */
+/* Child selectors */
+/* div>button
+{
+color: blueviolet;
+background:yellow;
+} */
+
+/* Decendent selector */
+/* div h1
+{
+color: tomato;
+} */
+
+/* Adjacent sebling selector */
+/* div+p
+{
+    color: wheat;
+} */
+
+/* general sebling selectors */
+div~p
+{
+    color: yellowgreen;
+}
